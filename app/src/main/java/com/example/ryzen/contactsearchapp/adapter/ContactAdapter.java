@@ -16,6 +16,7 @@ import com.bumptech.glide.load.resource.bitmap.CircleCrop;
 import com.example.ryzen.contactsearchapp.R;
 import com.example.ryzen.contactsearchapp.model.ContactModel;
 import com.example.ryzen.contactsearchapp.utils.GlideApp;
+
 import java.util.List;
 import java.util.Random;
 
